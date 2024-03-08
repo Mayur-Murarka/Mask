@@ -1,0 +1,1 @@
+export const predictURL = "https://maliciousurldetection.azurewebsites.net/api/predict";
