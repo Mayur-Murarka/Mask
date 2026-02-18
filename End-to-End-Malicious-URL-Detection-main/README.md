@@ -35,12 +35,6 @@
 - #### Logging and Custom Exception Handling:
     The system incorporates extensive logging and custom exception handling mechanisms to monitor the application's performance, detect issues, and ensure a seamless user experience. These mechanisms provide detailed information on errors, warnings, and system events, enabling developers to troubleshoot and improve the system continuously.
 
-- #### Frontend Deployment on AWS Amplify:
-    The React frontend is deployed using AWS Amplify, a development platform for building and deploying secure and scalable web applications. Amplify provides a range of features, including authentication, storage, and serverless functions, allowing the frontend to be easily and securely hosted in the cloud.
-
-- #### Backend Deployment on Azure:
-    The Flask backend is deployed using Azure, Microsoft's cloud computing platform. Azure offers a range of services for hosting, scaling, and managing web applications, ensuring that the backend can handle increasing traffic and user demands.
-
 ## Tech Stack
 
 **Frontend:** React, ChakraUI, Tsparticles
