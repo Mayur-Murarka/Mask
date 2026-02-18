@@ -1,7 +1,6 @@
 
 # Malicious URL Detection System Using Machine Learning, Deep Learning and NLP
 
-## Website URL: https://main.d3ic9i6whelr8c.amplifyapp.com/
 
 ## Project Description:
 
@@ -13,7 +12,6 @@
     
     The entire model pipeline, from data ingestion and preprocessing to model building, is implemented in Python, with extensive logging and custom exception handling to ensure optimal performance and maintainability. 
     
-    The frontend is deployed on AWS Amplify, and the backend is deployed using Azure, offering seamless integration and scalability.
 
 
 ## Features
