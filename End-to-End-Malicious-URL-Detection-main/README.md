@@ -53,8 +53,6 @@
 - Node.js
 - Python 3
 - Flask
-- Azure account
-- AWS Amplify account
 
 
 
